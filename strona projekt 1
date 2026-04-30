@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Moja strona</title>
+</head>
+<body style="margin:0;">
+    <img src="twoj-obraz.jpg" style="width:100%; height:auto;">
+</body>
+</html>
